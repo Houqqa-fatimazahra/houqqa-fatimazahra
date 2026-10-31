@@ -15,11 +15,11 @@ Je conçois des assistants basés sur les **LLMs**, des modèles de **vision par
 
 | Projet | Description | Technologies |
 |---|---|---|
-| [agent-rag-emails-prospection](https://github.com/houqqa-fatimazahra/agent-rag-emails-prospection) | Agent IA qui s'appuie sur un RAG pour rédiger des emails personnalisés, avec contrôles et validation humaine (en cours) | n8n, LLM, RAG |
-| [assistant-parc-informatique](https://github.com/houqqa-fatimazahra/assistant-parc-informatique) | Assistant LLM avec function calling et priorisation du renouvellement du matériel | Python, FastAPI, SHAP |
-| [segmentation-tumeurs-brats](https://github.com/houqqa-fatimazahra/segmentation-tumeurs-brats) | U-Net multi-classes sur IRM (BraTS 2020) | PyTorch, U-Net |
-| [detection-dommages-auto](https://github.com/houqqa-fatimazahra/detection-dommages-auto) | EfficientNet-B0, Grad-CAM et estimation du coût | PyTorch, Flask |
-| [classification-dattes-cnn](https://github.com/houqqa-fatimazahra/classification-dattes-cnn) | Classification d'images de dattes avec MobileNetV2 | Keras, TensorFlow |
+| agent-rag-emails-prospection | Agent IA qui s'appuie sur un RAG pour rédiger des emails personnalisés, avec contrôles et validation humaine (en cours) | n8n, LLM, RAG |
+| assistant-parc-informatique | Assistant LLM avec function calling et priorisation du renouvellement du matériel | Python, FastAPI, SHAP |
+| segmentation-tumeurs-brats | U-Net multi-classes sur IRM (BraTS 2020) | PyTorch, U-Net |
+| detection-dommages-auto | EfficientNet-B0, Grad-CAM et estimation du coût | PyTorch, Flask |
+| classification-dattes-cnn | Classification d'images de dattes avec MobileNetV2 | Keras, TensorFlow |
 
 ## Compétences
 
