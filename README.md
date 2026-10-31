@@ -15,21 +15,22 @@ Je conçois des assistants basés sur les **LLMs**, des modèles de **vision par
 
 | Projet | Description | Technologies |
 |---|---|---|
-| [agent-rag-emails-prospection](https://github.com/VOTRE-USERNAME/agent-rag-emails-prospection) | Agent IA qui s'appuie sur un RAG pour rédiger des emails personnalisés, avec contrôles et validation humaine (en cours) | n8n, LLM, RAG |
-| [assistant-parc-informatique](https://github.com/VOTRE-USERNAME/assistant-parc-informatique) | Assistant LLM avec function calling et priorisation du renouvellement du matériel | Python, FastAPI, SHAP |
-| [segmentation-tumeurs-brats](https://github.com/VOTRE-USERNAME/segmentation-tumeurs-brats) | U-Net multi-classes sur IRM (BraTS 2020) | PyTorch, U-Net |
-| [detection-dommages-auto](https://github.com/VOTRE-USERNAME/detection-dommages-auto) | EfficientNet-B0, Grad-CAM et estimation du coût | PyTorch, Flask |
-| [classification-dattes-cnn](https://github.com/VOTRE-USERNAME/classification-dattes-cnn) | Classification d'images de dattes avec MobileNetV2 | Keras, TensorFlow |
+| [agent-rag-emails-prospection](https://github.com/houqqa-fatimazahra/agent-rag-emails-prospection) | Agent IA qui s'appuie sur un RAG pour rédiger des emails personnalisés, avec contrôles et validation humaine (en cours) | n8n, LLM, RAG |
+| [assistant-parc-informatique](https://github.com/houqqa-fatimazahra/assistant-parc-informatique) | Assistant LLM avec function calling et priorisation du renouvellement du matériel | Python, FastAPI, SHAP |
+| [segmentation-tumeurs-brats](https://github.com/houqqa-fatimazahra/segmentation-tumeurs-brats) | U-Net multi-classes sur IRM (BraTS 2020) | PyTorch, U-Net |
+| [detection-dommages-auto](https://github.com/houqqa-fatimazahra/detection-dommages-auto) | EfficientNet-B0, Grad-CAM et estimation du coût | PyTorch, Flask |
+| [classification-dattes-cnn](https://github.com/houqqa-fatimazahra/classification-dattes-cnn) | Classification d'images de dattes avec MobileNetV2 | Keras, TensorFlow |
 
 ## Compétences
 
 - **IA générative :** LLMs, function calling, agents IA, RAG
 - **ML et Deep Learning :** Python, PyTorch, TensorFlow, Keras, Scikit-learn, SHAP
 - **Vision par ordinateur :** OpenCV, CNN, U-Net, Grad-CAM
+- **Big Data et MLOps :** Apache Spark, MLOps
 - **Langages et API :** Python, Java, SQL, JavaScript, FastAPI, Flask
 
 ## Me contacter
 
 - Email : Fatmazahrahouqqa@gmail.com
 - LinkedIn : [houqqa-fatimazahra](https://linkedin.com/in/houqqa-fatimazahra)
-- Portfolio : https://VOTRE-USERNAME.github.io
+- Portfolio : https://houqqa-fatimazahra.github.io
